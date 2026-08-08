@@ -1,0 +1,37 @@
+[
+  {
+    "": 0,
+    "Sentence": "<li><a href=\"/wiki/File:Socrates.png\" class=\"image\"><img alt=\"Socrates.png\" src=\"//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Socrates.png/18px-Socrates.png\" decoding=\"async\" width=\"18\" height=\"28\" class=\"noviewer\" srcset=\"//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Socrates.png/27px-Socrates.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Socrates.png/36px-Socrates.png 2x\" data-file-width=\"326\" data-file-height=\"500\" /> </a> <a href=\"/wiki/Portal:Philosophy\" title=\"Portal:Philosophy\">Philosophy&#32;portal </a> </li> </ul>",
+    "Label": 0
+  },
+  {
+    "": 1,
+    "Sentence": "<tt onmouseover=\"alert(1)\">test</tt>",
+    "Label": 1
+  },
+  {
+    "": 2,
+    "Sentence": "</span> <span class=\"reference-text\">Steering for the 1995 \"<a href=\"/wiki/History_of_autonomous_cars#1990s\" class=\"mw-redirect\" title=\"History of autonomous cars\">No Hands Across America </a>\" required \"only a few human assists\".",
+    "Label": 0
+  },
+  {
+    "": 3,
+    "Sentence": "</span> <span class=\"reference-text\"><cite class=\"citation web\"><a rel=\"nofollow\" class=\"external text\" href=\"https://www.mileseducation.com/finance/artificial_intelligence\">\"Miles Education | Future Of Finance | Blockchain Fundamentals for F&amp;A Professionals Certificate\" </a>. <i>www.mileseducation.com </i><span class=\"reference-accessdate\">. Retrieved <span class=\"nowrap\">26 September",
+    "Label": 0
+  },
+  {
+    "": 13683,
+    "Sentence": "<div draggable=\"true\" contenteditable>drag me</div><head ondrop=alert(1) contenteditable>drop here</head>",
+    "Label": 1
+  },
+  {
+    "": 13684,
+    "Sentence": "<li><cite id=\"CITEREFDomingos2015\" class=\"citation book\"><a href=\"/wiki/Pedro_Domingos\" title=\"Pedro Domingos\">Domingos, Pedro </a> (2015). <a href=\"/wiki/The_Master_Algorithm\" title=\"The Master Algorithm\"><i>The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World </i> </a>. Basic Books. <a href=\"/wiki/International_Standard_Book_Number\" title=\"International Standard Book Number\">ISBN </a>&#160;<a href=\"/wiki/Special:BookSources/978-0-465-06192-1\" title=\"Special:BookSources/978-0-465-06192-1\"><bdi>978-0-465-06192-1 </bdi> </a>. </cite><span title=\"ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Master+Algorithm%3A+How+the+Quest+for+the+Ultimate+Learning+Machine+Will+Remake+Our+World&amp;rft.pub=Basic+Books&amp;rft.date=2015&amp;rft.isbn=978-0-465-06192-1&amp;rft.aulast=Domingos&amp;rft.aufirst=Pedro&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArtificial+intelligence\" class=\"Z3988\">",
+    "Label": 0
+  },
+  {
+    "": 13685,
+    "Sentence": "</span>",
+    "Label": 0
+  }
+]
